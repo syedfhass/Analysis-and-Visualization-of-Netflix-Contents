@@ -35,7 +35,6 @@ Most of the content available on Netflix are not suitable for children below 14.
 
 ![image](https://user-images.githubusercontent.com/113072173/226509893-438e61d5-374a-486d-91f4-e28e24db6cc2.png)
 
-Above stacked area chart serves both the purpose of line chart and compositional chart. It shows that Netflix had a slow start in the beginning years and then things began to pick up in 2015 with a rapid increase in 2016. However, it got drastically slowed down in 2020 during the pandemic considering the fact content creation was on hold. Movie had the major portion of composition all over these years.
 
 ![image](https://user-images.githubusercontent.com/113072173/226510101-c3eb2e98-1b37-4404-abc9-bb97f91450ab.png)
 
@@ -46,19 +45,17 @@ There is also an interesting trend in number of content release over each month 
 
 ![image](https://user-images.githubusercontent.com/113072173/226510443-c20dff3d-d5d1-409c-9c0b-1140bc08c60b.png)
 
-One thing is common across countries, contents catered to the Kids are the minimum in numbers, followed by contents for older kids. Teens and Adults have fights in terms of proportion of targeted content in all the countries. In India, maximum of 54% is targeted for teens, however, in US maximum of 44% is targeted to adults. It is also interesting to note similarities between culturally similar countries - the US & UK are closely aligned with their Netflix target ages, yet vastly different to say, India or Japan!
-
 
 ![image](https://user-images.githubusercontent.com/113072173/226510756-c911ea6c-6d5a-49f7-a486-433b04a77301.png)
 
-![image](https://user-images.githubusercontent.com/113072173/226510794-037d605a-822e-4f4c-9802-f9a9a24f2785.png)
 
-In all the countries, there is significant gap between release data and upload date of content into the Netflix, which can be understood from the fact that first entertainment industry wants to earn money directly from theatres and cinemas before uploading it on the Netflix platform. However, this gap varies with countries as well as content type. This gap for TV shows is less and more regular in comparison with the movies. Spain has the lowest gap/age for both the movies and TV shows, whereas Japan and India higher gap for both the movies and TV shows.
+![image](https://user-images.githubusercontent.com/113072173/226510794-037d605a-822e-4f4c-9802-f9a9a24f2785.png)
 
 
 ## Comparing Netflix Content of USA and India
 
 ![image](https://user-images.githubusercontent.com/113072173/226511042-629ec6f6-fd02-4ba7-aff3-c31450146368.png)
+
 
 ![image](https://user-images.githubusercontent.com/113072173/226511072-c4a17788-b46c-4764-aa4c-15655cb42278.png)
 
@@ -66,6 +63,7 @@ In all the countries, there is significant gap between release data and upload d
 ## Word Cloud using Netflix Logo
 
 ![image](https://user-images.githubusercontent.com/113072173/226511290-a22d4eb7-76f5-4f36-b77a-a62f6016c99d.png)
+
 
 Plots helps in expressing our views better and making the people understand things nicely and very easily.
 
